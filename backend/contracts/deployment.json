@@ -1,0 +1,10 @@
+{
+  "network": "MST Testnet",
+  "chainId": "91562037",
+  "rpc": "https://testnetrpc.mstblockchain.com",
+  "address": "0x1445f17652E5F03cA3bE3671aeaf7adF9ded0266",
+  "txHash": "0x50168151ec1e363ca94ef72e56c36e138faae5af0b24f17fb9e470fb9255715c",
+  "blockNumber": 5803541,
+  "deployer": "0xEA3B645F1940B60076347162411F4d446f36C03B",
+  "deployedAt": "2026-09-29T07:11:13.962Z"
+}

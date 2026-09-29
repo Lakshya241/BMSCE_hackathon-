@@ -1,0 +1,429 @@
+[
+  {
+    "id": "ACT-16070450",
+    "kind": "incident_created",
+    "message": "INC-15220356 · person_detected · CAM-LAB · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T09:29:20.704Z"
+  },
+  {
+    "id": "ACT-1790674160689",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0x49952d79e61c…",
+    "level": "info",
+    "timestamp": "2026-09-29T09:29:20.689Z"
+  },
+  {
+    "id": "ACT-13952697",
+    "kind": "incident_created",
+    "message": "INC-13116414 · person_detected · CAM-LAB · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T09:28:59.526Z"
+  },
+  {
+    "id": "ACT-1790674139488",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0xd54c5ae57637…",
+    "level": "info",
+    "timestamp": "2026-09-29T09:28:59.488Z"
+  },
+  {
+    "id": "ACT-12181254",
+    "kind": "incident_created",
+    "message": "INC-11334242 · person_detected · CAM-LAB · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T09:28:41.812Z"
+  },
+  {
+    "id": "ACT-1790674121789",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0x684799667177…",
+    "level": "info",
+    "timestamp": "2026-09-29T09:28:41.789Z"
+  },
+  {
+    "id": "ACT-10169529",
+    "kind": "incident_created",
+    "message": "INC-09333431 · person_detected · CAM-LAB · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T09:28:21.695Z"
+  },
+  {
+    "id": "ACT-1790674101682",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0xac332f4a1a5b…",
+    "level": "info",
+    "timestamp": "2026-09-29T09:28:21.682Z"
+  },
+  {
+    "id": "ACT-00021134",
+    "kind": "incident_created",
+    "message": "INC-99180932 · person_detected · CAM-LAB · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T09:26:40.211Z"
+  },
+  {
+    "id": "ACT-1790674000193",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0x23b81bc20aa3…",
+    "level": "info",
+    "timestamp": "2026-09-29T09:26:40.193Z"
+  },
+  {
+    "id": "ACT-86979112",
+    "kind": "incident_created",
+    "message": "INC-86174585 · person_detected · CAM-LAB · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T09:24:29.792Z"
+  },
+  {
+    "id": "ACT-1790673869773",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0xcf7e320aa559…",
+    "level": "info",
+    "timestamp": "2026-09-29T09:24:29.773Z"
+  },
+  {
+    "id": "ACT-86513314",
+    "kind": "incident_created",
+    "message": "INC-85576762 · restricted_entry · CAM-LAB-RES · risk 95",
+    "level": "high",
+    "timestamp": "2026-09-29T09:24:25.133Z"
+  },
+  {
+    "id": "ACT-1790673865117",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0x1c6017a9c825…",
+    "level": "info",
+    "timestamp": "2026-09-29T09:24:25.117Z"
+  },
+  {
+    "id": "ACT-85773411",
+    "kind": "incident_created",
+    "message": "INC-84170949 · person_detected · CAM-LAB · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T09:24:17.735Z"
+  },
+  {
+    "id": "ACT-1790673857707",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0x1eaa9c9693dd…",
+    "level": "info",
+    "timestamp": "2026-09-29T09:24:17.707Z"
+  },
+  {
+    "id": "ACT-79927162",
+    "kind": "incident_created",
+    "message": "INC-79419133 · person_detected · CAM-LAB · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T08:16:39.271Z"
+  },
+  {
+    "id": "ACT-1790669799251",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0xd14f802b01cd…",
+    "level": "info",
+    "timestamp": "2026-09-29T08:16:39.251Z"
+  },
+  {
+    "id": "ACT-79023317",
+    "kind": "incident_created",
+    "message": "INC-77320198 · person_detected · CAM-LAB · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T08:16:30.233Z"
+  },
+  {
+    "id": "ACT-1790669790205",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0xb12b56b21e64…",
+    "level": "info",
+    "timestamp": "2026-09-29T08:16:30.205Z"
+  },
+  {
+    "id": "ACT-78495556",
+    "kind": "incident_created",
+    "message": "INC-77264066 · restricted_entry · CAM-LAB-RES · risk 95",
+    "level": "high",
+    "timestamp": "2026-09-29T08:16:24.957Z"
+  },
+  {
+    "id": "ACT-1790669784922",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0xa608069f6294…",
+    "level": "info",
+    "timestamp": "2026-09-29T08:16:24.922Z"
+  },
+  {
+    "id": "ACT-11894061",
+    "kind": "tamper_detected",
+    "message": "Evidence integrity failure on INC-06937788 (frame_splice)",
+    "level": "critical",
+    "timestamp": "2026-09-29T07:15:18.940Z"
+  },
+  {
+    "id": "ACT-07865199",
+    "kind": "incident_created",
+    "message": "INC-06937788 · restricted_entry · CAM-002 · risk 88",
+    "level": "high",
+    "timestamp": "2026-09-29T07:14:38.651Z"
+  },
+  {
+    "id": "ACT-1790666078639",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0x4cd5c271c6e2…",
+    "level": "info",
+    "timestamp": "2026-09-29T07:14:38.639Z"
+  },
+  {
+    "id": "ACT-97621292",
+    "kind": "incident_created",
+    "message": "INC-96614770 · restricted_entry · CAM-001 · risk 93",
+    "level": "high",
+    "timestamp": "2026-09-29T07:12:56.212Z"
+  },
+  {
+    "id": "ACT-1790665976201",
+    "kind": "verifier_registered",
+    "message": "Verifier 0xEA3B645F1940B60076347162411F4d446f36C03B registered on MST with signature 0xc8230632c2ea…",
+    "level": "info",
+    "timestamp": "2026-09-29T07:12:56.201Z"
+  },
+  {
+    "id": "ACT-16655771",
+    "kind": "incident_created",
+    "message": "INC-16509056 · person_detected · CAM-PC · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T06:42:46.557Z"
+  },
+  {
+    "id": "ACT-14659683",
+    "kind": "incident_created",
+    "message": "INC-14506895 · person_detected · CAM-PC · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T06:42:26.597Z"
+  },
+  {
+    "id": "ACT-13220134",
+    "kind": "incident_created",
+    "message": "INC-13065912 · person_detected · CAM-PC · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T06:42:12.201Z"
+  },
+  {
+    "id": "ACT-11233493",
+    "kind": "incident_created",
+    "message": "INC-11072272 · person_detected · CAM-PC · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T06:41:52.334Z"
+  },
+  {
+    "id": "ACT-38031759",
+    "kind": "incident_created",
+    "message": "INC-37883981 · restricted_entry · CAM-002 · risk 88",
+    "level": "high",
+    "timestamp": "2026-09-29T06:29:40.317Z"
+  },
+  {
+    "id": "ACT-03613655",
+    "kind": "incident_created",
+    "message": "INC-03460482 · person_detected · CAM-LAB · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T05:50:36.136Z"
+  },
+  {
+    "id": "ACT-97234826",
+    "kind": "incident_created",
+    "message": "INC-97086416 · person_detected · CAM-LAB · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T05:49:32.348Z"
+  },
+  {
+    "id": "ACT-94663749",
+    "kind": "incident_created",
+    "message": "INC-94516458 · person_detected · CAM-LAB · risk 60",
+    "level": "high",
+    "timestamp": "2026-09-29T05:49:06.637Z"
+  },
+  {
+    "id": "ACT-43685290",
+    "kind": "incident_created",
+    "message": "INC-43541474 · restricted_entry · CAM-002 · risk 88",
+    "level": "high",
+    "timestamp": "2026-09-29T05:40:36.852Z"
+  },
+  {
+    "id": "ACT-16364517",
+    "kind": "incident_created",
+    "message": "INC-16219767 · restricted_entry · CAM-002 · risk 88",
+    "level": "high",
+    "timestamp": "2026-09-29T05:36:03.645Z"
+  },
+  {
+    "id": "ACT-11031380",
+    "kind": "incident_created",
+    "message": "INC-10882332 · restricted_entry · CAM-001 · risk 97",
+    "level": "critical",
+    "timestamp": "2026-09-29T04:11:50.313Z"
+  },
+  {
+    "id": "ACT-10703335",
+    "kind": "node_failover",
+    "message": "Node Beta Verifier (NODE-02) offline — verification duty shifted to Zeta Validator",
+    "level": "high",
+    "timestamp": "2026-09-29T04:11:47.033Z"
+  },
+  {
+    "id": "ACT-10521738",
+    "kind": "tamper_detected",
+    "message": "Evidence integrity failure on INC-97178463 (red_team_splice)",
+    "level": "critical",
+    "timestamp": "2026-09-29T04:11:45.217Z"
+  },
+  {
+    "id": "ACT-10344226",
+    "kind": "camera_tamper",
+    "message": "Camera tamper detected on CAM-001",
+    "level": "critical",
+    "timestamp": "2026-09-29T04:11:43.442Z"
+  },
+  {
+    "id": "ACT-07621491",
+    "kind": "node_failover",
+    "message": "Node Alpha Validator (NODE-01) offline — verification duty shifted to Beta Verifier",
+    "level": "high",
+    "timestamp": "2026-09-29T04:11:16.214Z"
+  },
+  {
+    "id": "ACT-07136237",
+    "kind": "node_failover",
+    "message": "Node Delta Gateway (NODE-04) offline — verification duty shifted to Beta Verifier",
+    "level": "high",
+    "timestamp": "2026-09-29T04:11:11.362Z"
+  },
+  {
+    "id": "ACT-06977438",
+    "kind": "node_failover",
+    "message": "Node Delta Gateway (NODE-04) offline — verification duty shifted to Beta Verifier",
+    "level": "high",
+    "timestamp": "2026-09-29T04:11:09.775Z"
+  },
+  {
+    "id": "ACT-06724117",
+    "kind": "node_failover",
+    "message": "Node Delta Gateway (NODE-04) offline — verification duty shifted to Beta Verifier",
+    "level": "high",
+    "timestamp": "2026-09-29T04:11:07.242Z"
+  },
+  {
+    "id": "ACT-97326162",
+    "kind": "incident_created",
+    "message": "INC-97178463 · restricted_entry · CAM-001 · risk 91",
+    "level": "high",
+    "timestamp": "2026-09-29T03:52:53.261Z"
+  },
+  {
+    "id": "ACT-80915879",
+    "kind": "incident_created",
+    "message": "INC-80771819 · restricted_entry · CAM-001 · risk 91",
+    "level": "high",
+    "timestamp": "2026-09-29T01:03:29.158Z"
+  },
+  {
+    "id": "ACT-79825795",
+    "kind": "incident_created",
+    "message": "INC-79682618 · restricted_entry · CAM-001 · risk 97",
+    "level": "critical",
+    "timestamp": "2026-09-29T01:03:18.257Z"
+  },
+  {
+    "id": "ACT-79518484",
+    "kind": "node_failover",
+    "message": "Node Alpha Validator (NODE-01) offline — verification duty shifted to Beta Verifier",
+    "level": "high",
+    "timestamp": "2026-09-29T01:03:15.184Z"
+  },
+  {
+    "id": "ACT-79348861",
+    "kind": "tamper_detected",
+    "message": "Evidence integrity failure on INC-28543082 (red_team_splice)",
+    "level": "critical",
+    "timestamp": "2026-09-29T01:03:13.488Z"
+  },
+  {
+    "id": "ACT-79181010",
+    "kind": "camera_tamper",
+    "message": "Camera tamper detected on CAM-001",
+    "level": "critical",
+    "timestamp": "2026-09-29T01:03:11.810Z"
+  },
+  {
+    "id": "ACT-28688164",
+    "kind": "incident_created",
+    "message": "INC-28543082 · restricted_entry · CAM-001 · risk 91",
+    "level": "high",
+    "timestamp": "2026-09-28T18:31:26.881Z"
+  },
+  {
+    "id": "ACT-28060050",
+    "kind": "incident_created",
+    "message": "INC-27915693 · restricted_entry · CAM-002 · risk 88",
+    "level": "high",
+    "timestamp": "2026-09-28T18:31:20.600Z"
+  },
+  {
+    "id": "ACT-1001a",
+    "kind": "incident_created",
+    "message": "INC-1001 · restricted_entry · CAM-001 · risk 91",
+    "level": "high",
+    "timestamp": "2026-09-28T16:50:32.084Z"
+  },
+  {
+    "id": "ACT-1001b",
+    "kind": "anchored",
+    "message": "Evidence for INC-1001 anchored on MST Testnet (demo)",
+    "level": "info",
+    "timestamp": "2026-09-28T16:50:32.084Z"
+  },
+  {
+    "id": "ACT-1002a",
+    "kind": "incident_created",
+    "message": "INC-1002 · loitering · CAM-003 · risk 58",
+    "level": "medium",
+    "timestamp": "2026-09-28T14:25:32.084Z"
+  },
+  {
+    "id": "ACT-1002b",
+    "kind": "anchored",
+    "message": "Evidence for INC-1002 anchored on MST Testnet (demo)",
+    "level": "info",
+    "timestamp": "2026-09-28T14:25:32.084Z"
+  },
+  {
+    "id": "ACT-1003a",
+    "kind": "incident_created",
+    "message": "INC-1003 · motion · CAM-002 · risk 34",
+    "level": "low",
+    "timestamp": "2026-09-28T11:25:32.084Z"
+  },
+  {
+    "id": "ACT-1003b",
+    "kind": "anchored",
+    "message": "Evidence for INC-1003 anchored on MST Testnet (demo)",
+    "level": "info",
+    "timestamp": "2026-09-28T11:25:32.084Z"
+  },
+  {
+    "id": "ACT-1004a",
+    "kind": "incident_created",
+    "message": "INC-1004 · person_detected · CAM-003 · risk 61",
+    "level": "medium",
+    "timestamp": "2026-09-28T08:15:32.084Z"
+  },
+  {
+    "id": "ACT-1004b",
+    "kind": "anchored",
+    "message": "Evidence for INC-1004 anchored on MST Testnet (demo)",
+    "level": "info",
+    "timestamp": "2026-09-28T08:15:32.084Z"
+  }
+]

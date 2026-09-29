@@ -1,0 +1,67 @@
+[
+  {
+    "id": "CAM-001",
+    "name": "Main Entrance",
+    "location": "Building A · Ground",
+    "status": "compromised",
+    "mode": "armed",
+    "riskLevel": "medium",
+    "lastSeen": "2026-09-28T18:25:32.084Z",
+    "uptime": 99.4,
+    "tamperCount": 0,
+    "latencyMs": 42,
+    "model": "Sentry-Cam X2"
+  },
+  {
+    "id": "CAM-002",
+    "name": "Server Room",
+    "location": "Building A · B1",
+    "status": "online",
+    "mode": "armed",
+    "riskLevel": "high",
+    "lastSeen": "2026-09-28T18:24:32.084Z",
+    "uptime": 99.8,
+    "tamperCount": 0,
+    "latencyMs": 38,
+    "model": "Sentry-Cam X2"
+  },
+  {
+    "id": "CAM-003",
+    "name": "Parking Deck L2",
+    "location": "Building B · L2",
+    "status": "online",
+    "mode": "armed",
+    "riskLevel": "medium",
+    "lastSeen": "2026-09-28T18:25:32.084Z",
+    "uptime": 98.9,
+    "tamperCount": 1,
+    "latencyMs": 55,
+    "model": "Sentry-Cam X2"
+  },
+  {
+    "id": "CAM-004",
+    "name": "Loading Dock",
+    "location": "Building B · Dock",
+    "status": "online",
+    "mode": "disarmed",
+    "riskLevel": "low",
+    "lastSeen": "2026-09-28T18:23:32.084Z",
+    "uptime": 97.6,
+    "tamperCount": 0,
+    "latencyMs": 61,
+    "model": "Sentry-Dome D1"
+  },
+  {
+    "id": "CAM-005",
+    "name": "Corridor East",
+    "location": "Building A · F3",
+    "status": "degraded",
+    "mode": "armed",
+    "riskLevel": "low",
+    "lastSeen": "2026-09-28T18:19:32.084Z",
+    "uptime": 94.1,
+    "tamperCount": 0,
+    "latencyMs": 130,
+    "model": "Sentry-Dome D1"
+  }
+]

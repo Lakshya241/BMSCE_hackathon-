@@ -1,0 +1,16 @@
+[
+  {
+    "id": "USR-001",
+    "name": "Security Admin",
+    "role": "admin",
+    "wallet": null,
+    "createdAt": "2026-08-29T18:25:32.084Z"
+  },
+  {
+    "id": "USR-002",
+    "name": "Night Operator",
+    "role": "operator",
+    "wallet": null,
+    "createdAt": "2026-09-16T18:25:32.084Z"
+  }
+]

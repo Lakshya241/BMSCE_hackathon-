@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ALR-16069884",
+    "incidentId": "INC-15220356",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-LAB — risk 60/100. Evidence 4667f6fd49b1… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T09:29:20.698Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-13950817",
+    "incidentId": "INC-13116414",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-LAB — risk 60/100. Evidence bf9a9e846d4b… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T09:28:59.508Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-12180451",
+    "incidentId": "INC-11334242",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-LAB — risk 60/100. Evidence 9ba9cc8e189e… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T09:28:41.804Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-10168993",
+    "incidentId": "INC-09333431",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-LAB — risk 60/100. Evidence bda06f008df4… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T09:28:21.689Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-00020494",
+    "incidentId": "INC-99180932",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-LAB — risk 60/100. Evidence e7e168f71a92… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T09:26:40.205Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-86978231",
+    "incidentId": "INC-86174585",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-LAB — risk 60/100. Evidence d783b0a4119a… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T09:24:29.782Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-86512639",
+    "incidentId": "INC-85576762",
+    "title": "HIGH: RESTRICTED AREA BREACH — someone is there",
+    "message": "restricted entry on CAM-LAB-RES — risk 95/100. Evidence 18f889b25e77… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T09:24:25.126Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-85772095",
+    "incidentId": "INC-84170949",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-LAB — risk 60/100. Evidence dd7e4dad25a3… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T09:24:17.720Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-79926052",
+    "incidentId": "INC-79419133",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-LAB — risk 60/100. Evidence c8969f29a8c7… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T08:16:39.260Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-79022187",
+    "incidentId": "INC-77320198",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-LAB — risk 60/100. Evidence d216e37a8b3b… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T08:16:30.222Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-78494311",
+    "incidentId": "INC-77264066",
+    "title": "HIGH: RESTRICTED AREA BREACH — someone is there",
+    "message": "restricted entry on CAM-LAB-RES — risk 95/100. Evidence af61b612c5e5… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T08:16:24.943Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-11893431",
+    "incidentId": "INC-06937788",
+    "title": "TAMPERING DETECTED",
+    "message": "Evidence for INC-06937788 no longer matches its anchored hash (frame_splice). Original db431cc468… ≠ current 104b473a2f…",
+    "severity": "critical",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T07:15:18.934Z",
+    "channel": "node"
+  },
+  {
+    "id": "ALR-07864530",
+    "incidentId": "INC-06937788",
+    "title": "HIGH: WS test breach",
+    "message": "restricted entry on CAM-002 — risk 88/100. Evidence db431cc468dc… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T07:14:38.645Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-97620629",
+    "incidentId": "INC-96614770",
+    "title": "HIGH: LIVE test: vault breach",
+    "message": "restricted entry on CAM-001 — risk 93/100. Evidence 3442a94e41bb… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T07:12:56.206Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-16654865",
+    "incidentId": "INC-16509056",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-PC — risk 60/100. Evidence 73f800d396f7… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T06:42:46.548Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-14657611",
+    "incidentId": "INC-14506895",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-PC — risk 60/100. Evidence f10b7a967a74… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T06:42:26.576Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-13219125",
+    "incidentId": "INC-13065912",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-PC — risk 60/100. Evidence 4b83843a9bf0… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T06:42:12.191Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-11232754",
+    "incidentId": "INC-11072272",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-PC — risk 60/100. Evidence 8c4ac5c62d1c… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T06:41:52.327Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-38031065",
+    "incidentId": "INC-37883981",
+    "title": "HIGH: WS test breach",
+    "message": "restricted entry on CAM-002 — risk 88/100. Evidence b5cdc9e84405… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T06:29:40.310Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-03612445",
+    "incidentId": "INC-03460482",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-LAB — risk 60/100. Evidence 5d8d12fb1b42… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T05:50:36.124Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-97233950",
+    "incidentId": "INC-97086416",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-LAB — risk 60/100. Evidence 19f627c6e4f4… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T05:49:32.339Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-94662335",
+    "incidentId": "INC-94516458",
+    "title": "HIGH: Person detected",
+    "message": "person detected on CAM-LAB — risk 60/100. Evidence a08990d91fc7… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T05:49:06.623Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-43684449",
+    "incidentId": "INC-43541474",
+    "title": "HIGH: WS test breach",
+    "message": "restricted entry on CAM-002 — risk 88/100. Evidence 4b3a6700ca18… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T05:40:36.844Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-16363728",
+    "incidentId": "INC-16219767",
+    "title": "HIGH: WS test breach",
+    "message": "restricted entry on CAM-002 — risk 88/100. Evidence fa1b97e1a681… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T05:36:03.637Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-11030257",
+    "incidentId": "INC-10882332",
+    "title": "CRITICAL: Red Team: ghost entry in vault zone",
+    "message": "restricted entry on CAM-001 — risk 97/100. Evidence 6590ad194e1e… anchored.",
+    "severity": "critical",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T04:11:50.302Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-10521050",
+    "incidentId": "INC-97178463",
+    "title": "TAMPERING DETECTED",
+    "message": "Evidence for INC-97178463 no longer matches its anchored hash (red_team_splice). Original 9d78c90d92… ≠ current 6d8009fb59…",
+    "severity": "critical",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T04:11:45.210Z",
+    "channel": "node"
+  },
+  {
+    "id": "ALR-97325295",
+    "incidentId": "INC-97178463",
+    "title": "HIGH: Simulated: person entered restricted zone",
+    "message": "restricted entry on CAM-001 — risk 91/100. Evidence 9d78c90d923e… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T03:52:53.253Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-80915270",
+    "incidentId": "INC-80771819",
+    "title": "HIGH: Simulated: person entered restricted zone",
+    "message": "restricted entry on CAM-001 — risk 91/100. Evidence ad8e6a35851e… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T01:03:29.152Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-79825315",
+    "incidentId": "INC-79682618",
+    "title": "CRITICAL: Red Team: ghost entry in vault zone",
+    "message": "restricted entry on CAM-001 — risk 97/100. Evidence b6e03df9bbfc… anchored.",
+    "severity": "critical",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T01:03:18.253Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-79348238",
+    "incidentId": "INC-28543082",
+    "title": "TAMPERING DETECTED",
+    "message": "Evidence for INC-28543082 no longer matches its anchored hash (red_team_splice). Original 3fb6ab7f8f… ≠ current c1af62c1fa…",
+    "severity": "critical",
+    "acknowledged": false,
+    "createdAt": "2026-09-29T01:03:13.482Z",
+    "channel": "node"
+  },
+  {
+    "id": "ALR-28687413",
+    "incidentId": "INC-28543082",
+    "title": "HIGH: Simulated: person entered restricted zone",
+    "message": "restricted entry on CAM-001 — risk 91/100. Evidence 3fb6ab7f8f94… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-28T18:31:26.874Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-28059428",
+    "incidentId": "INC-27915693",
+    "title": "HIGH: WS test breach",
+    "message": "restricted entry on CAM-002 — risk 88/100. Evidence e78392b2f3b5… anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-28T18:31:20.594Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-1001",
+    "incidentId": "INC-1001",
+    "title": "HIGH: Person entered restricted zone",
+    "message": "restricted entry on CAM-001 — risk 91/100. Evidence anchored.",
+    "severity": "high",
+    "acknowledged": false,
+    "createdAt": "2026-09-28T16:50:32.084Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-1002",
+    "incidentId": "INC-1002",
+    "title": "MEDIUM: Loitering near stairwell exit",
+    "message": "loitering on CAM-003 — risk 58/100. Evidence anchored.",
+    "severity": "medium",
+    "acknowledged": false,
+    "createdAt": "2026-09-28T14:25:32.084Z",
+    "channel": "dashboard"
+  },
+  {
+    "id": "ALR-1004",
+    "incidentId": "INC-1004",
+    "title": "MEDIUM: Person detected in vehicle aisle",
+    "message": "person detected on CAM-003 — risk 61/100. Evidence anchored.",
+    "severity": "medium",
+    "acknowledged": true,
+    "createdAt": "2026-09-28T08:15:32.084Z",
+    "channel": "dashboard"
+  }
+]

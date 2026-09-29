@@ -1,0 +1,959 @@
+[
+  {
+    "id": "VER-16066682",
+    "incidentId": "INC-15220356",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T09:29:20.666Z",
+    "completedAt": "2026-09-29T09:29:20.666Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-13942685",
+    "incidentId": "INC-13116414",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T09:28:59.426Z",
+    "completedAt": "2026-09-29T09:28:59.426Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-12173752",
+    "incidentId": "INC-11334242",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T09:28:41.737Z",
+    "completedAt": "2026-09-29T09:28:41.737Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-10165722",
+    "incidentId": "INC-09333431",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T09:28:21.657Z",
+    "completedAt": "2026-09-29T09:28:21.657Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-00015990",
+    "incidentId": "INC-99180932",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T09:26:40.159Z",
+    "completedAt": "2026-09-29T09:26:40.159Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-86970233",
+    "incidentId": "INC-86174585",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T09:24:29.702Z",
+    "completedAt": "2026-09-29T09:24:29.702Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-86508573",
+    "incidentId": "INC-85576762",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (14f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"restricted\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-29T09:24:25.085Z",
+    "completedAt": "2026-09-29T09:24:25.085Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-85763957",
+    "incidentId": "INC-84170949",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T09:24:17.639Z",
+    "completedAt": "2026-09-29T09:24:17.639Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-79922128",
+    "incidentId": "INC-79419133",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T08:16:39.221Z",
+    "completedAt": "2026-09-29T08:16:39.221Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-79015639",
+    "incidentId": "INC-77320198",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T08:16:30.157Z",
+    "completedAt": "2026-09-29T08:16:30.157Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-78488211",
+    "incidentId": "INC-77264066",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (14f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"restricted\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-29T08:16:24.882Z",
+    "completedAt": "2026-09-29T08:16:24.882Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-07861597",
+    "incidentId": "INC-06937788",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (16f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"vault\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-29T07:14:38.615Z",
+    "completedAt": "2026-09-29T07:14:38.615Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-97617698",
+    "incidentId": "INC-96614770",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (16f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"vault\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-29T07:12:56.176Z",
+    "completedAt": "2026-09-29T07:12:56.176Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-16652219",
+    "incidentId": "INC-16509056",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T06:42:46.522Z",
+    "completedAt": "2026-09-29T06:42:46.522Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-14652319",
+    "incidentId": "INC-14506895",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T06:42:26.523Z",
+    "completedAt": "2026-09-29T06:42:26.523Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-13213883",
+    "incidentId": "INC-13065912",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T06:42:12.139Z",
+    "completedAt": "2026-09-29T06:42:12.139Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-11229241",
+    "incidentId": "INC-11072272",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T06:41:52.292Z",
+    "completedAt": "2026-09-29T06:41:52.292Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-38029574",
+    "incidentId": "INC-37883981",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (16f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"vault\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-29T06:29:40.295Z",
+    "completedAt": "2026-09-29T06:29:40.295Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-03610969",
+    "incidentId": "INC-03460482",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T05:50:36.109Z",
+    "completedAt": "2026-09-29T05:50:36.109Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-97232033",
+    "incidentId": "INC-97086416",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T05:49:32.320Z",
+    "completedAt": "2026-09-29T05:49:32.320Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-94660281",
+    "incidentId": "INC-94516458",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (15f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.93,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.82,
+        "rationale": "No zone context attached; agent abstains from contextual confirmation."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.9,
+    "startedAt": "2026-09-29T05:49:06.602Z",
+    "completedAt": "2026-09-29T05:49:06.602Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-43682828",
+    "incidentId": "INC-43541474",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (16f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"vault\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-29T05:40:36.828Z",
+    "completedAt": "2026-09-29T05:40:36.828Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-16362162",
+    "incidentId": "INC-16219767",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (16f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"vault\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-29T05:36:03.621Z",
+    "completedAt": "2026-09-29T05:36:03.621Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-11024593",
+    "incidentId": "INC-10882332",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (22f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a critical-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"vault\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-29T04:11:50.245Z",
+    "completedAt": "2026-09-29T04:11:50.245Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-97322957",
+    "incidentId": "INC-97178463",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (18f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"vault\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-29T03:52:53.229Z",
+    "completedAt": "2026-09-29T03:52:53.229Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-80913938",
+    "incidentId": "INC-80771819",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (18f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"vault\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-29T01:03:29.139Z",
+    "completedAt": "2026-09-29T01:03:29.139Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-79824041",
+    "incidentId": "INC-79682618",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (22f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a critical-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"vault\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-29T01:03:18.240Z",
+    "completedAt": "2026-09-29T01:03:18.240Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-28685362",
+    "incidentId": "INC-28543082",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (18f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"vault\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-28T18:31:26.853Z",
+    "completedAt": "2026-09-28T18:31:26.853Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-28057679",
+    "incidentId": "INC-27915693",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (16f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.99,
+        "rationale": "Motion trajectory and dwell pattern match a high-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.9,
+        "rationale": "Event localized to restricted zone \"vault\" — context supports alert."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.94,
+    "startedAt": "2026-09-28T18:31:20.576Z",
+    "completedAt": "2026-09-28T18:31:20.576Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-1001",
+    "incidentId": "INC-1001",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (18f) visually consistent with restricted entry."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.91,
+        "rationale": "Trajectory matches a high-risk restricted entry signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Event localized to restricted zone \"vault\"."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.93,
+    "startedAt": "2026-09-28T16:50:32.084Z",
+    "completedAt": "2026-09-28T16:50:32.084Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-1002",
+    "incidentId": "INC-1002",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (12f) visually consistent with loitering."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.91,
+        "rationale": "Trajectory matches a medium-risk loitering signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.62,
+        "rationale": "No zone context attached; agent abstains."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.93,
+    "startedAt": "2026-09-28T14:25:32.084Z",
+    "completedAt": "2026-09-28T14:25:32.084Z",
+    "quorum": "3/3"
+  },
+  {
+    "id": "VER-1003",
+    "incidentId": "INC-1003",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "rejected",
+        "confidence": 0.94,
+        "rationale": "Frame packet (8f) visually consistent with motion."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.91,
+        "rationale": "Trajectory matches a low-risk motion signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.62,
+        "rationale": "No zone context attached; agent abstains."
+      }
+    ],
+    "consensus": "rejected",
+    "confidence": 0.93,
+    "startedAt": "2026-09-28T11:25:32.084Z",
+    "completedAt": "2026-09-28T11:25:32.084Z",
+    "quorum": "2/3"
+  },
+  {
+    "id": "VER-1004",
+    "incidentId": "INC-1004",
+    "agents": [
+      {
+        "name": "Vision Agent",
+        "result": "confirmed",
+        "confidence": 0.94,
+        "rationale": "Frame packet (14f) visually consistent with person detected."
+      },
+      {
+        "name": "Behavior Agent",
+        "result": "confirmed",
+        "confidence": 0.91,
+        "rationale": "Trajectory matches a medium-risk person detected signature."
+      },
+      {
+        "name": "Context Agent",
+        "result": "abstained",
+        "confidence": 0.62,
+        "rationale": "No zone context attached; agent abstains."
+      }
+    ],
+    "consensus": "confirmed",
+    "confidence": 0.93,
+    "startedAt": "2026-09-28T08:15:32.084Z",
+    "completedAt": "2026-09-28T08:15:32.084Z",
+    "quorum": "3/3"
+  }
+]

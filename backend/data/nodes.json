@@ -1,0 +1,68 @@
+[
+  {
+    "id": "NODE-01",
+    "name": "Alpha Validator",
+    "region": "us-east",
+    "role": "validator",
+    "status": "offline",
+    "stake": 52000,
+    "uptime": 99.95,
+    "lastBlock": 4820341,
+    "latencyMs": 22
+  },
+  {
+    "id": "NODE-02",
+    "name": "Beta Verifier",
+    "region": "eu-west",
+    "role": "verifier",
+    "status": "offline",
+    "stake": 31000,
+    "uptime": 99.9,
+    "lastBlock": 4820340,
+    "latencyMs": 47
+  },
+  {
+    "id": "NODE-03",
+    "name": "Gamma Storage",
+    "region": "ap-south",
+    "role": "storage",
+    "status": "active",
+    "stake": 18500,
+    "uptime": 99.7,
+    "lastBlock": 4820339,
+    "latencyMs": 88
+  },
+  {
+    "id": "NODE-04",
+    "name": "Delta Gateway",
+    "region": "us-west",
+    "role": "gateway",
+    "status": "active",
+    "stake": 12000,
+    "uptime": 99.6,
+    "lastBlock": 4820341,
+    "latencyMs": 35
+  },
+  {
+    "id": "NODE-05",
+    "name": "Epsilon Verifier",
+    "region": "eu-north",
+    "role": "verifier",
+    "status": "syncing",
+    "stake": 9800,
+    "uptime": 98.2,
+    "lastBlock": 4820288,
+    "latencyMs": 71
+  },
+  {
+    "id": "NODE-06",
+    "name": "Zeta Validator",
+    "region": "sa-east",
+    "role": "validator",
+    "status": "active",
+    "stake": 27400,
+    "uptime": 99.88,
+    "lastBlock": 4820341,
+    "latencyMs": 64
+  }
+]

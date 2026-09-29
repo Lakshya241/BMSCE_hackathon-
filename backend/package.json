@@ -1,0 +1,30 @@
+{
+  "name": "chain-sentry-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Chain Sentry backend — REST + WebSocket live data, JSON store, MST blockchain anchoring",
+  "main": "dist/server.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/server.js",
+    "seed": "node scripts/seed.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^18.0.4",
+    "ethers": "^6.15.0",
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.10.0",
+    "@types/ws": "^8.5.13",
+    "solc": "^0.8.37",
+    "tsx": "^4.19.2",
+    "typescript": "^5.9.2"
+  }
+}

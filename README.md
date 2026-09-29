@@ -1,6 +1,6 @@
 # 🛡️ Chain Sentry
 
-### Decentralized AI Surveillance & Tamper-Evident Evidence Network
+### Decentralized Surveillance & Tamper-Evident Evidence Network
 
 > **See the incident. Prove the evidence. Trust the chain.**
 
